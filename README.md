@@ -3,7 +3,7 @@
 
 Terraform module which creates Management Groups on Azure.
 
-These types of resources are supported:
+Supported Azure services:
 
 * [Azure Management Group](https://learn.microsoft.com/en-us/azure/governance/azure-management)
 
